@@ -116,9 +116,6 @@ nav img {
     font-size: 15px !important;
     /* max-width: 90vw !important; */
   }   
-  .faq{
-    /* min-height: 850px !important; */
-  } 
   .last-input-text {
     max-width: 90% !important;
   }
@@ -294,9 +291,9 @@ nav button {
 }
 .first-sect-img video {
   position: absolute;
-  top: 85px;
+  top: 80px;
   left: 75px;
-  width: 455px;
+  width: 450px;
 }
 .sect > div {
   display: flex;
